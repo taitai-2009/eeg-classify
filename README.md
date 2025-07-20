@@ -68,4 +68,3 @@
 - 本 Notebook（`DLBasics2025_competition_stacking.ipynb`）  
 - 重みファイル：Transformer と CNN-LSTM の最良重み (`transformer_ft_best.py`, `ccnlstm_best.pt`)  
 - 以上を `submission.zip` にまとめて提出。  
->>>>>>> 93ac954 (Add EEG classification code and README)
